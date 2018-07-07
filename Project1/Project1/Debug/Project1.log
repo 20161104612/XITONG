@@ -1,0 +1,6 @@
+﻿  系统.cpp
+c:\users\li\desktop\新建文件夹\project1\project1\系统.cpp(61): warning C4101: “k”: 未引用的局部变量
+c:\users\li\desktop\新建文件夹\project1\project1\系统.cpp(65): warning C4101: “id”: 未引用的局部变量
+c:\users\li\desktop\新建文件夹\project1\project1\系统.cpp(182): warning C4101: “cContinue”: 未引用的局部变量
+c:\users\li\desktop\新建文件夹\project1\project1\系统.cpp(180): warning C4101: “n”: 未引用的局部变量
+  Project1.vcxproj -> C:\Users\Li\Desktop\新建文件夹\Project1\Debug\Project1.exe
